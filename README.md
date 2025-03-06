@@ -1,5 +1,3 @@
-# ONE-Challenge-amigosecreto
-Oracle Next Education - Challenge Amigo Secreto
 # 🎁 Amigo Secreto
 
 Este proyecto es una aplicación web interactiva para gestionar un sorteo de "Amigo Secreto". Permite ingresar nombres, almacenarlos en una lista y seleccionar aleatoriamente un participante.
